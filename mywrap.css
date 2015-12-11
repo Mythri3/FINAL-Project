@@ -1,0 +1,148 @@
+.whole{
+  background-color: #eee;
+  font-family: sans-serif;
+
+}
+
+.header img{
+  /*width: 250px;*/
+  height: 200px;
+  padding-top: 20px;
+  padding-left: 100px;
+
+}
+.header li{
+  display: inline;
+  float: right;
+  text-decoration: none;
+  margin-top: 20px;
+}
+.navbar{
+  padding-top: 100px;
+}
+nav a{
+  display: inline;
+  text-decoration: none;
+  font-size: 20px;
+  color: black;
+  padding-top: 40px;
+}
+nav a:hover{
+  color: blue;
+}
+.header{
+  background-color:#eee;
+  border-bottom: 4px solid black;
+}
+
+.main {
+  background-color: #eee;
+}
+.main h1{
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 40px;
+  padding-left: 40px;
+  text-decoration: none;
+}
+
+.main h3{
+  color:blue;
+  padding-top: 3px;
+  padding-left: 100px;
+}
+.main p{
+  color:black;
+  height: 100px;
+  width: 260px;
+  padding-left: 30px;
+  font-size: 16px;
+  padding-top: 0px;
+}
+.main img{
+  width: 250px;
+  height: 250px;
+  padding-left: 20px;
+}
+.Hero img{
+  height: 600px;
+  width: 100%;
+  padding-top:20px;
+  padding-left: 0px;
+  /*margin-bottom: 10px;
+  padding-left: 20px;*/
+
+}
+.image{
+  padding-top: 30px;
+}
+.animate img{
+  height:200px;
+  width: 250px;
+  padding-left: 30px;
+  margin-top: 50px;
+}
+.image h3{
+  color:blue;
+  padding-left: 200px;
+}
+.matter p{
+  color: black;
+  font-size: 16px;
+  padding-top: -10px;
+
+}
+.animate img{
+  height:200px;
+  width: 250px;
+  padding-bottom:10px;
+  padding-left: 0px;
+  margin-top: 10px;
+
+}
+
+.image2 h3{
+  color:blue;
+  padding-left: 220px;
+}
+.mat p{
+  color: black;
+  font-size: 16px;
+  padding-top: 0px;
+
+}
+.mate img{
+  height:200px;
+  width: 250px;
+  padding-bottom:10px;
+  padding-left: 40px;
+  margin-top: 0px;
+
+}
+.wrap img{
+    height: 40px;
+    width: 40px;
+    float: right;
+    padding: 4px;
+    padding-right: 20px;
+    padding-top: 30px;
+}
+.wrap h1{
+  padding-left: 10px;
+}
+.wrap p{
+  /*padding-right: 150px;
+  margin-left: 50px;*/
+
+  text-align: center;
+  padding-top: 0px;
+  font-size: 14px;
+}
+.wrap li{
+padding-left: 20px;
+padding-top: 20px;
+}
+
+.wrap{
+  background:grey;
+  }
